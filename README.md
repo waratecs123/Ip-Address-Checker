@@ -1,12 +1,12 @@
-# IP Address Analyzer 🔍
+# IP Address Analyzer
 
 A comprehensive Python tool for analyzing IP addresses with detailed network information and binary representations.
 
-## 📋 Overview
+## Overview
 
 This IP Address Analyzer is a powerful Python utility that processes IP addresses from a text file and provides detailed network analysis including binary conversion, IP classification, private/public identification, subnet masking, and network/host identification.
 
-## ✨ Features
+## Features
 
 - **IP Validation** - Verify correct IP address format and structure
 - **Binary Conversion** - Convert IP addresses to 8-bit binary representation
@@ -17,7 +17,7 @@ This IP Address Analyzer is a powerful Python utility that processes IP addresse
 - **Network ID Calculation** - Extract network portion from IP address
 - **Network/Host ID Template** - Visual representation of network vs host bits
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
